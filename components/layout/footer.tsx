@@ -55,7 +55,7 @@ export function Footer() {
                     </div>
                     <div className="text-center md:text-right">
                         <p>&copy; {new Date().getFullYear()} Grow My Therapy. All rights reserved.</p>
-                        <p className="mt-2 text-[10px] opacity-60">Website Template Credits: Go Bloom Creative</p>
+                        {/* <p className="mt-2 text-[10px] opacity-60">Website Template Credits: Go Bloom Creative</p> */}
                     </div>
                 </div>
 

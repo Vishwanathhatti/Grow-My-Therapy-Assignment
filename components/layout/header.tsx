@@ -13,7 +13,7 @@ export function Header() {
             <div className="container mx-auto px-6 h-20 flex items-center justify-between">
                 {/* Logo */}
                 <Link href="/" className="text-2xl font-serif tracking-wide text-gray-900">
-                    Lilac Template
+                    Grow My Therapy
                 </Link>
 
                 {/* Desktop Nav */}
